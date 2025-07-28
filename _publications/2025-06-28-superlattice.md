@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlattices"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2025-06-28-superlattice
+excerpt: 'The work study the competing superconductivity and spin-density wave on the side surface of a superlattice made by stacking double quantum spin Hall insulators.'
 date: 2025-06-28
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2506.22715'
+citation: 'Yi-Chun Hung, Chen-Hsuan Hsu, and Arun Bansil. Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlattices <i>arXiv</i>:2506.22715.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Competing superconducting (SC) and density-wave orders are of key importance in generating unconventional superconductivity and emergent electronic responses. Quasi-one-dimensional models provide insight into these competing orders and suggest higher-dimensional realizations through coupled-wire constructions, but analysis of such systems remains limited. Recent studies suggest that double helical edge states (DHESs) in double quantum spin Hall insulators (DQSHIs) form a two-channel Luttinger liquid that exhibits SC and spin density wave (SDW) phases and their π-junction analogs. Here, we analyze weakly coupled DHESs from the surface of a periodically stacked layered structure consisting of DQSHIs and dielectrics, where inter-edge interactions approximately develop a tunable helical sliding Luttinger liquid (HSLL) order. Using a renormalization-group analysis, we construct phase diagrams and identify a regime of HSLL parameters that favor competing two-dimensional π-SC and π-SDW orders. We identify parameter regimes where the competing orders could be realized experimentally in nanoscale devices. Our study suggests a promising materials platform for exploring tunable π-SC and π-SDW orders in double quantum spin Hall superlattices.
