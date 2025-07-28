@@ -11,7 +11,7 @@ redirect_from:
 <!-- ![profile](../images/profile-20240104.png) -->
 <img align="right" style="float" width="30%" src="../images/bio-photo.jpg">
 
-Research Interests
+Current Research Interests
 =====
  - Machine learning methods in material discovery
 
