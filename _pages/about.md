@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi-Chun Hung / 洪逸群"
+title: "Hung, Yi-Chun / 洪 逸群"
 excerpt: "Yi-Chun Hung"
 author_profile: true
 redirect_from: 
