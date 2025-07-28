@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the pdf version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7VIQjw--/lengentyh).
+You can download the PDF version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7VIQjw--/lengentyh).
 
 Education
 ======
@@ -32,7 +32,7 @@ Research Experience
   
     * <ins>Phenomenological superconducting proximity effect modeling</ins> ( tight-binding modeling on materials & lattice models )
 
-Publications
+Publications (*: co-first authorship)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
