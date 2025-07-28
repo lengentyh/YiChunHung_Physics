@@ -3,7 +3,7 @@ title: "Geometry-driven moiré in twisted bilayers of high pseudospin fermions"
 collection: publications
 category: letter
 permalink: /publication/2025-07-14-watermill
-excerpt: 'The works investigate the electronic structures of twisted bilayer systems with low-energystates with a high pseudospin structure.'
+excerpt: 'The work proposes a new lattice model hosting low-energy states with a high pseudospin, which leads to enhanced band topology and quantum geometry in its twisted bilayer at magic angles.'
 date: 2025-07-14
 venue: 'Physical Review B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/3kws-k867'
