@@ -11,13 +11,17 @@ redirect_from:
 <!-- ![profile](../images/profile-20240104.png) -->
 <img align="right" style="float" width="30%" src="../images/bio-photo.jpg">
 
-Current Research Interests
+Research Interests
 =====
- - Machine learning methods in material discovery
+I have a broad interest in theoretical condensed matter physics and its application to material science, now focusing on:
 
- - Moiré engineering in twisted multilayer systems
+ - __Machine learning methods in material discovery__
 
- - Band topology, quantum geometry, and their responses
+ - __Moiré engineering in twisted multilayer systems__
+
+ - __Band topology, quantum geometry, and their responses__
+
+In addition, I also have experience on studying __Luttinger liquid theory__ and am interested in __non-equilibrium systems__, as well as __parafermion physics__.
 
 Profile
 =====
