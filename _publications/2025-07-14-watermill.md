@@ -1,7 +1,7 @@
 ---
 title: "Geometry-driven moiré in twisted bilayers of high pseudospin fermions"
 collection: publications
-category: manuscripts
+category: letters
 permalink: /publication/2025-07-14-watermill
 excerpt: 'The works investigate the electronic structures of twisted bilayer systems with low-energystates with a high pseudospin structure.'
 date: 2025-07-14
