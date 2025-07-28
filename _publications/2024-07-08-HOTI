@@ -1,0 +1,13 @@
+---
+title: "Time-reversal soliton pairs in even spin Chern number higher-order topological insulators"
+collection: publications
+category: regular
+permalink: /publication/2024-07-08-HOTI
+excerpt: 'The work study the higher-order topological insulator phase in double quantum spin Hall insulators driven by spin-(1) symmetry breaking perturbations.'
+date: 2024-07-08
+venue: 'Physical Review B'
+paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035125'
+citation: 'Yi-Chun Hung, Baokai Wang, Chen-Hsuan Hsu, Arun Bansil, and Hsin Lin <i>Phys. Rev. B 110</i>, 035125 (2024).'
+---
+
+Solitons formed through the one-dimensional mass-kink mechanism on the edges of two-dimensional systems with nontrivial topology play an important role in the emergence of higher-order (HO) topological phases. In this connection, the existing work in time-reversal symmetric systems has focused on gapping the edge Dirac cones in the presence of particle-hole symmetry, which is not suited to the common spin Chern insulators. Here, we address the emergence of edge solitons in spin Chern number of two insulators, in which the edge Dirac cones are gapped by perturbations preserving time-reversal symmetry but breaking spin-𝑈⁡(1)symmetry. Through the mass-kink mechanism, we thus explain the appearance of pairwise corner modes and predict the emergence of extra charges around the corners. By tracing the evolution of the mass term along the edge, we demonstrate that the in-gap corner modes and the associated extra charges can be generated through the anisotropic 𝑆𝑧-mixing spin-orbit coupling via the mass-kink mechanism. We thus provide strong evidence that an anisotropic even spin Chern number insulator is an HO topological insulator with protected corner charges.
