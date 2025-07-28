@@ -19,20 +19,20 @@ Education
 Research Experience
 ======
 * __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
-     > May 2023 - present • Boston, MA, USA
+   > May 2023 - present • Boston, MA, USA
   
-     * <ins>Moiré and flat band physics in bipartite lattices</ins> <font size="2"> ( tight-binding & continuum modeling, quantum geometry, and GL theory ) </font>
+  * <ins>Moiré and flat band physics in bipartite lattices</ins> <font size="3"> ( tight-binding & continuum modeling, quantum geometry, and GL theory ) </font>
 
-     * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> <font size="2"> ( bosonization and perturbative RG techniques ) </font>
+  * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> <font size="3"> ( bosonization and perturbative RG techniques ) </font>
 
-     * <ins>Projective operator spectrum topology</ins> <font size="2"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
+  * <ins>Projective operator spectrum topology</ins> <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
 
 * __Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
   
-    * <ins>Phenomenological superconducting proximity effect modeling</ins> <font size="2"> ( tight-binding modeling on materials & lattice models ) </font>
+  * <ins>Phenomenological superconducting proximity effect modeling</ins> <font size="3"> ( tight-binding modeling on materials & lattice models ) </font>
 
-Publications <font size="4"> (*: co-first authorship) </font>
+Core Publications <font size="4"> (*: co-first authorship) </font>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
