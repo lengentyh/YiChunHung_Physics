@@ -81,10 +81,10 @@ author:
 publication_category:
   books:
     title: 'Books'
+  letter:
+    title: 'Letters'  
   regular:
     title: 'Regular Articles'    
-  letter:
-    title: 'Letters'
   preprint:
     title: 'Preprints'
 
