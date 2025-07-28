@@ -1,10 +1,7 @@
 ---
-permalink: /
-title: "Yi-Chun Hung / 洪逸群"
-excerpt: "Yi-Chun Hung"
+layout: archive
+title: "Biography"
+permalink: /biography/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
