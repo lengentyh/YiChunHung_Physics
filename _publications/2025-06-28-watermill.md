@@ -1,7 +1,7 @@
 ---
 title: "Geometry-driven moiré in twisted bilayers of high pseudospin fermions"
 collection: publications
-category: Letter
+category: manuscripts
 permalink: /publication/2025-06-28-watermill
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-06-28
