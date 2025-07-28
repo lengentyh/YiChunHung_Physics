@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interests
 =====
-I have a broad interest in theoretical condensed matter physics and its application to material science, now focusing on:
+I have a broad interest in theoretical condensed matter physics and its application to material science. I am now focusing on:
 
  - __Machine learning methods in material discovery__
 
@@ -34,5 +34,8 @@ Profile
 
 News
 =====
-* 2025-07-15: Updated Publications. A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B.
-* 2025-06-28: Uploaded a preprint on [arXiv](https://arxiv.org/abs/2506.22715).
+* 2025-07-14: Updated talks. An invited talk [Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-07-14-invited-talk) is given at Annual Meeting of NSF-ExpandQISE 2: Exotic Physics and Applications of Solid-State Qubits.
+* 2025-07-14: Updated Publications. A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B as a Letter.
+* 2025-06-28: Uploaded [a preprint](https://arxiv.org/abs/2506.22715) on arXiv.
+* 2025-06-20: Updated Publications. A new paper [Majorana Kramers pairs in synthetic high-spin Chern insulators](https://journals.aps.org/prb/abstract/10.1103/9n85-r2xw) is published on Physical Review B.
+* 2025-05-01: Updated Publications. A new paper [Topological characteristics and bulk-boundary correspondence in the orbital Hall effect](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195102) is published on Physical Review B.
