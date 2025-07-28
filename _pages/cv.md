@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Northeastern University, 2022 - present
-* B.S. in Physics, National Taiwan University, 2017 - 2021
+* __Ph.D in Physics, Northeastern University__, 2022 - present
+* __B.S. in Physics, National Taiwan University__, 2017 - 2021
 
 Research Experience
 ======
-* Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil
+* __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
      > May 2023 - present • Boston, MA, USA
   
-     * Moiré and flat band physics in bipartite lattices ( tight-binding & continuum modeling, quantum geometry, and GL theory )
+     * <ins>Moiré and flat band physics in bipartite lattices</ins> ( tight-binding & continuum modeling, quantum geometry, and GL theory )</ins>
 
-     * Helical Luttinger liquid in double quantum spin Hall insulators ( bosonization and perturbative RG techniques )
+     * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> ( bosonization and perturbative RG techniques )</ins>
 
-     * Projective operator spectrum topology ( topological phases and analytical treatment of bulk-boundary correspondence )
+     * <ins>Projective operator spectrum topology</ins> ( topological phases and analytical treatment of bulk-boundary correspondence )</ins>
 
-* Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin
-  > Sep. 2020 – Jun. 2022 (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
+* __Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__
+  > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
   
-    * Phenomenological superconducting proximity effect modeling ( tight-binding modeling on materials & lattice models )
+    * <ins>Phenomenological superconducting proximity effect modeling</ins> ( tight-binding modeling on materials & lattice models )
 
 Publications
 ======
