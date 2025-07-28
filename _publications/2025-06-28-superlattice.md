@@ -3,7 +3,7 @@ title: "Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlat
 collection: publications
 category: preprint
 permalink: /publication/2025-06-28-superlattice
-excerpt: 'The work propose a setup to realize the competing superconductivity and spin-density wave on the side surface of a superlattice made by stacking double quantum spin Hall insulators.'
+excerpt: 'The work propose a setup to realize the competing superconductivity and spin-density wave on the side surface of a superlattice made by stacking double quantum spin Hall insulators, along with potential material realizations and material specific analysis.'
 date: 2025-06-28
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2506.22715'
