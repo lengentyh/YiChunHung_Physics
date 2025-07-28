@@ -21,7 +21,7 @@ I have a broad interest in theoretical condensed matter physics and its applicat
 
  - __Band topology, quantum geometry, and their responses__
 
-In addition, I also have experience on studying __Luttinger liquid theory__ and am interested in __non-equilibrium systems__, as well as __parafermion physics__.
+In addition, I have experience on studying __Luttinger liquid theory__ and am also interested in __non-equilibrium systems__.
 
 Profile
 =====
