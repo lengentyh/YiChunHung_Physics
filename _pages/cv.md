@@ -19,11 +19,11 @@ Research Experience
 * __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
      > May 2023 - present • Boston, MA, USA
   
-     * <ins>Moiré and flat band physics in bipartite lattices</ins> ( tight-binding & continuum modeling, quantum geometry, and GL theory )</ins>
+     * <ins>Moiré and flat band physics in bipartite lattices</ins> ( tight-binding & continuum modeling, quantum geometry, and GL theory )
 
-     * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> ( bosonization and perturbative RG techniques )</ins>
+     * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> ( bosonization and perturbative RG techniques )
 
-     * <ins>Projective operator spectrum topology</ins> ( topological phases and analytical treatment of bulk-boundary correspondence )</ins>
+     * <ins>Projective operator spectrum topology</ins> ( topological phases and analytical treatment of bulk-boundary correspondence )
 
 * __Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
