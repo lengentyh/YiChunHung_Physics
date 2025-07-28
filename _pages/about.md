@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interests
 =====
- - Machine Learning methods in material science
+ - Machine learning methods in material discovery
 
  - Moiré engineering in twisted multilayer systems
 
