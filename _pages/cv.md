@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the pdf version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7VIQjw--/lengentyh).
+
 Education
 ======
 * __Ph.D in Physics, Northeastern University__, 2022 - present
