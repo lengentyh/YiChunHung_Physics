@@ -29,11 +29,11 @@ author:
   location         : "Boston, MA"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : "hung.yi@northeastern.edu" 
+  email            : # "hung.yi@northeastern.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
   googlescholar    : "https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3875-2270"
