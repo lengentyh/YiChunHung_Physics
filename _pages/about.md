@@ -13,11 +13,9 @@ redirect_from:
 
 Research Interests
 =====
- - Application of machine learning method on material discovery
+ - Machine Learning methods in material science
 
  - Moiré engineering in twisted multilayer systems
-
- - Luttinger liquid theory
 
  - Band topology, quantum geometry, and their responses
 
@@ -26,7 +24,7 @@ Profile
 * __PhD Candidate__. Department of Physics, Northeastern University
 * __PhD Advisor__: Prof. Arun Bansil
 * __Email__: hung.yi@northeastern.edu
-* __Recent__ preprints: [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+* __Recent preprints__ on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 * [Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
 
 News
