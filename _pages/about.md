@@ -23,6 +23,8 @@ I have a broad interest in theoretical condensed matter physics and its applicat
 
 In addition, I have experience on studying __Luttinger liquid theory__ and am also interested in __non-equilibrium systems__.
 
+<hr>
+
 Profile
 =====
 * __PhD Candidate__. Department of Physics, Northeastern University
@@ -31,6 +33,8 @@ Profile
 * __Email__: hung.yi@northeastern.edu
 * __Recent preprints__ on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 * [Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
+
+<hr>
 
 News
 =====
