@@ -18,7 +18,7 @@ Education
 
 <hr>
 
-* __Ph.D in Physics, Northeastern University__, 2022 - present
+* __Ph.D. in Physics, Northeastern University__, 2022 - present
 * __B.S. in Physics, National Taiwan University__, 2017 - 2021
 
 <br>
