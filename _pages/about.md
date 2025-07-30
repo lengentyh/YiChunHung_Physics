@@ -11,8 +11,6 @@ redirect_from:
 <!-- ![profile](../images/profile-20240104.png) -->
 <img align="right" style="float" width="30%" src="../images/MURI_2025.jpg">
 
-<br>
-
 Research Interests
 =====
 
