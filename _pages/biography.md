@@ -4,6 +4,7 @@ title: "Biography"
 permalink: /biography/
 author_profile: true
 ---
+<p style="text-align: justify;">
 
 Hi, I’m Yi-Chun Hung (洪逸群), a PhD student passionate about theoretical condensed matter physics.
 
@@ -16,3 +17,5 @@ I pursued theoretical physics at National Taiwan University (NTU) and the Instit
 My journey later took me to the United States for my Ph.D. studies at Northeastern University, which greatly broadened my research perspective and international collaborations. I deeply appreciate the open, collaborative, and highly interdisciplinary research environment in the U.S., which fosters creativity and accelerates scientific progress. Experiencing this culture has strengthened my determination to continue conducting research here, contributing to both fundamental science and technology. 
 
 Looking ahead, I aim to combine fundamental research with technological innovation, exploring new frontiers at the intersection of quantum physics and material science. More recently, I have been integrating machine learning and AI tools into my research, not only to accelerate scientific discovery but also to enhance efficiency and creativity. I remain committed to the spirit embodied by 「誠、惠、健、毅」, which continue to guide both my scientific aspirations and my personal growth.
+
+</p>
