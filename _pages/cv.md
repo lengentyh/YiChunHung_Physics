@@ -25,11 +25,11 @@ Research Experience
 * __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
    > May 2023 - present • Boston, MA, USA
   
-  * <ins>Moiré and flat band physics in bipartite lattices</ins> <font size="3"> ( tight-binding & continuum modeling, quantum geometry, and GL theory ) </font>
+  * [Moiré and flat band physics in bipartite lattices](https://lengentyh.github.io/YiChunHung_Physics//research/research_flat_band) <font size="3"> ( tight-binding & continuum modeling, quantum geometry, and GL theory ) </font>
 
-  * <ins>Helical Luttinger liquid in double quantum spin Hall insulators</ins> <font size="3"> ( bosonization and perturbative RG techniques ) </font>
+  * [Helical Luttinger liquid in double quantum spin Hall insulators](https://lengentyh.github.io/YiChunHung_Physics//research/research_QSHI) <font size="3"> ( bosonization and perturbative RG techniques ) </font>
 
-  * <ins>Projective operator spectrum topology</ins> <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
+  * [Projective operator spectrum topology](https://lengentyh.github.io/YiChunHung_Physics//research/research_projective_spectrum) <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
 
 * __Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
