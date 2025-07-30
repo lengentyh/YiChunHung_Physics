@@ -15,6 +15,9 @@ redirect_from:
 
 Research Interests
 =====
+
+<hr>
+
 I have a broad interest in theoretical condensed matter physics and its application to material science. I am now focusing on:
 
  - __Machine learning methods in material discovery__
