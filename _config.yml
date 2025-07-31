@@ -236,6 +236,9 @@ collections:
   biography:
     output: true
     permalink: /:collection/:path/
+  google_search_console:
+    output: true
+    permalink: https://lengentyh.github.io/YiChunHung_Physics//googlee7690440fbb17de8
 
 
 # These settings control how pages and collections are included in the site
