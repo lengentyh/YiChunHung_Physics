@@ -24,9 +24,9 @@ I have a broad interest in theoretical condensed matter physics and its applicat
 
  - __Machine learning methods in material discovery__
 
- - __Moiré engineering in twisted multilayer systems__
+ - __Moiré engineering on electronic structures in twisted multilayer systems__
 
- - __Band topology, quantum geometry, and their responses__
+ - __Band topology, quantum geometry, and their responses in flat bands__
 
 In addition, I have experience on studying __Luttinger liquid theory__ and am also interested in __non-equilibrium systems__.
 
