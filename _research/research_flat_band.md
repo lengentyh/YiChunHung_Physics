@@ -23,5 +23,5 @@ It is then natural to ask: what new physics might emerge when these two flat-ban
 </p>
 
 ## Related Publications
- - <a name="1">[1]</a> Xiaoting Zhou*, __Yi-Chun Hung*__, Baokai Wang*, and Arun Bansil. Generation of isolated flat bands with tunable numbers through moiré engineering. [_Phys. Rev. Lett. 133_, 236401 (2024; _Editors' Suggestion_)](https://lengentyh.github.io/YiChunHung_Physics//publication/2024-12-06-spin-1)
- - <a name="2">[2]</a> __Yi-Chun Hung*__, Xiaoting Zhou*, and Arun Bansil. Geometry-driven moiré in twisted bilayers of high pseudospin fermions. [_Phys. Rev. B 112_, L041403 (2025)](https://lengentyh.github.io/YiChunHung_Physics//publication/2025-07-14-watermill)
+ - <a name="1">[1]</a> Xiaoting Zhou*, <strong>Yi-Chun Hung*</strong>, Baokai Wang*, and Arun Bansil. Generation of isolated flat bands with tunable numbers through moiré engineering. [_Phys. Rev. Lett. 133_, 236401 (2024; _Editors' Suggestion_)](https://lengentyh.github.io/YiChunHung_Physics//publication/2024-12-06-spin-1)
+ - <a name="2">[2]</a> <strong>Yi-Chun Hung*</strong>, Xiaoting Zhou*, and Arun Bansil. Geometry-driven moiré in twisted bilayers of high pseudospin fermions. [_Phys. Rev. B 112_, L041403 (2025)](https://lengentyh.github.io/YiChunHung_Physics//publication/2025-07-14-watermill)
