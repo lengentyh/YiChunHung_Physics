@@ -14,7 +14,8 @@ An alternative route to realizing flat bands lies in <i>lattice geometry</i> its
 
 <figure style="float: right; width: 40%; text-align: center; margin-left: 1em;">
   <img src="../images/spin-1.jpg" alt="Description" style="width: 100%;">
-  <figcaption style="font-size: 1em;">Schematics of generation of isolated flat bands through moiré engineering <a href="#1">[1]</a>.</figcaption>
+  <figcaption style="font-size: 1em;">Schematics of generation of isolated flat bands through moiré engineering.
+  </figcaption>
 </figure>
 
 <p style="text-align: justify;">
