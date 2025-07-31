@@ -10,7 +10,7 @@ excerpt: 'More (helical edge states) is different!'
 
 <figure style="float: right; width: 40%; text-align: center; margin-left: 1em;">
   <img src="../images/double_helical.png" alt="Description" style="width: 100%;">
-  <figcaption style="font-size: 0.9em; color: #555;">Figure adapted from <a href="#5">[5]</a>.</figcaption>
+  <figcaption style="text-align: center; font-size: 1em;">Figure adapted from <a href="#5">[5]</a>.</figcaption>
 </figure>
 
 <p style="text-align: justify;">
