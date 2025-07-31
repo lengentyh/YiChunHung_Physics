@@ -18,3 +18,13 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Ignore unused files
+_pages/archive-layout-with-content.md
+_pages/category-archive.html
+_pages/cv-json.md
+_pages/markdown.md
+_pages/non-menu-page.md
+_pages/portfolio.html
+_pages/tag-archive.html
+_pages/year-archive.html
