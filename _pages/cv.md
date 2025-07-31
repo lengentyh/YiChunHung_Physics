@@ -79,7 +79,7 @@ Honors and Awards
 
 <br>
 
-Teaching
+Teaching Experience
 ======
 
 <hr>
