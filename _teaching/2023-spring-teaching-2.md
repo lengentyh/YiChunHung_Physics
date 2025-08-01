@@ -8,4 +8,4 @@ date: 2023-01-10
 location: "Boston, MA"
 ---
 
-Teaching Assistant.
+Served as a Teaching Assistant for an undergraduate class, supporting around 30 engineering students by providing guidance on problem-solving approaches, explaining key exercises, and grading their in-class quizzes.

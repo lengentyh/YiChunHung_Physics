@@ -8,4 +8,4 @@ date: 2023-01-10
 location: "Boston, MA"
 ---
 
-Laboratory Teaching Assistant.
+Served as a Laboratory Teaching Assistant for 4 undergraduate classes, supporting around 40 life science students in total through hands-on instruction, individual guidance, and grading of lab reports.
