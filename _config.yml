@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Yi-Chun Hung"
 description              : &description "A physics PhD student at NEU"
 url                      : "https://lengentyh.github.io/YiChunHung_Physics" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "https://lengentyh.github.io/YiChunHung_Physics" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/YiChunHung_Physics" # the subpath of your site, e.g. "/blog"
 repository               : "lengentyh/YiChunHung_Physics"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
