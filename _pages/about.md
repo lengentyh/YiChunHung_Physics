@@ -13,7 +13,7 @@ redirect_from:
 <br>
 
 <!-- ![profile](../images/profile-20240104.png) -->
-<img align="right" style="float" width="35%" src="../images/MURI_2025.jpg">
+<img align="right" style="float" width="35%" src="{{ site.baseurl }}/images/MURI_2025.jpg">
 
 Research Interests
 =====
