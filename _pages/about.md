@@ -10,8 +10,6 @@ redirect_from:
 
 <br>
 
-<br>
-
 <!-- ![profile](../images/profile-20240104.png) -->
 <img align="right" style="float" width="35%" src="/YiChunHung_Physics/images/MURI_2025.jpg">
 
@@ -19,14 +17,23 @@ Research Interests
 =====
 
 <hr>
-
+<p style="text-align: justify;">
 I am broadly interested in theoretical condensed matter physics and its applications to materials science. My current focus includes:
+</p>
 
  - __Machine learning methods in material discovery__
 
- - __Moiré engineering in twisted multilayers, especially on band topology, quantum geometry, and their responses in flat bands__
+ - __Moiré flat bands in twisted multilayers__, particularly:
+  
+    - __Band topology__, 
+    
+    - __Quantum geometry__, 
+    
+    - __Associated physical responses__.
 
-I also have experience in __Luttinger liquid theory__ and an interest in __non-equilibrium systems__.
+<p style="text-align: justify;">
+I also have experience in <strong>Luttinger liquid theory</strong> and <strong>band topology in the projective spectrum</strong>, and maintain an interest in <strong>non-equilibrium systems</strong>.
+</p>
 
 <br>
 
@@ -35,11 +42,11 @@ Profile
 
 <hr>
 
-* __PhD Candidate__. Department of Physics, Northeastern University
-* __PhD Advisor__: [Prof. Arun Bansil](https://cos.northeastern.edu/people/arun-bansil/)
+* __Ph.D. Candidate__. Department of Physics, Northeastern University
+* __Ph.D. Advisor__: [Prof. Arun Bansil](https://cos.northeastern.edu/people/arun-bansil/)
 * __Office__: Elliott Hall 130 ([Quantum Material and Sensing Institute](https://quantum.northeastern.edu/), Burlington, MA)
 * __Email__: hung.yi@northeastern.edu
-* __Recent preprints__ on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+* __Recent Preprints__ on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Yi-Chun+Hung&terms-0-field=author&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 * [Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
 
 <br>
