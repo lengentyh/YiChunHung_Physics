@@ -11,7 +11,7 @@ redirect_from:
 <br>
 
 <!-- ![profile](../images/profile-20240104.png) -->
-<img align="right" style="float: right; margin-left: 5px;" width="35%" src="/YiChunHung_Physics/images/MURI_2025.jpg">
+<img align="right" style="float: right" width="35%" margin="0.5em" src="/YiChunHung_Physics/images/MURI_2025.jpg">
 
 Research Interests
 =====
