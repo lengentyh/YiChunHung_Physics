@@ -15,7 +15,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js"></script>
   
   <!-- Talk locations data -->
-  <script src="org-locations.js"></script>
+  <script src="talk-locations.js"></script>
   
   <style>
     #map {
@@ -38,15 +38,17 @@
 <body>
 
 <div class="talk-info">
+  <h1>My Talk Locations</h1>
+  <p>This map shows the locations where I have given talks and presentations.</p>
   <div class="info-box">
-    Hover over a cluster to see the bounds of its children and click a cluster to zoom to those bounds. Click on individual markers to see talk details.
+    <strong>Instructions:</strong> Hover over a cluster to see the bounds of its children and click a cluster to zoom to those bounds. Click on individual markers to see talk details.
   </div>
 </div>
 
 <div id="map"></div>
 
 <script>
-  // Talk location data is loaded from org-locations.js file
+  // Talk location data is loaded from talk-locations.js file
   // This allows easy updates without modifying the HTML file
 
   // Initialize the map with periodic world view
