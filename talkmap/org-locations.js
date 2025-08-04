@@ -5,8 +5,8 @@ var talkLocations = [
     location: "Taipei, Taiwan",
     date: "2025-02-13",
     type: "Invited Talk",
-    lat: 25.0330,
-    lng: 121.5654
+    lat: 25.041252338596266,
+    lng: 121.61696536463612
   },
   {
     title: "Moiré Engineering for Tunable Numbers of Flat Bands and Its Quantum Geometry",
@@ -14,8 +14,8 @@ var talkLocations = [
     location: "Tainan, Taiwan",
     date: "2025-02-19",
     type: "Invited Talk",
-    lat: 22.9997,
-    lng: 120.2270
+    lat: 22.999836430613186,
+    lng: 120.21895156641828
   },
   {
     title: "Emergent Majorana Kramers pairs in interacting spin/mirror Chern insulators",
@@ -23,8 +23,8 @@ var talkLocations = [
     location: "Anaheim, CA",
     date: "2025-03-21",
     type: "Contributing Talk",
-    lat: 33.8366,
-    lng: -117.9143
+    lat: 33.80170270169129, 
+    lng: -117.91807543522977
   },
   {
     title: "Novel Moiré Pattern of a New Two-Dimensional Lattice",
@@ -32,8 +32,8 @@ var talkLocations = [
     location: "Minneapolis, MN",
     date: "2024-03-08",
     type: "Contributing Talk",
-    lat: 44.9778,
-    lng: -93.2650
+    lat: 44.97007692809127, 
+    lng: -93.27416334123562
   },
   {
     title: "Time-Reversal Soliton Pair in Two-Dimensional Topological Insulating Systems",
@@ -41,8 +41,8 @@ var talkLocations = [
     location: "Las Vegas, NV",
     date: "2023-03-08",
     type: "Contributing Talk",
-    lat: 36.1699,
-    lng: -115.1398
+    lat: 36.11893569880907,
+    lng: -115.16784448695735
   },
   {
     title: "Edge Mass-Kink and Fractional Corner Charge in Higher-Order Topological Insulators",
@@ -50,8 +50,8 @@ var talkLocations = [
     location: "Taipei, Taiwan",
     date: "2022-04-29",
     type: "Invited Talk",
-    lat: 25.0330,
-    lng: 121.5654
+    lat: 25.021712425893423, 
+    lng: 121.53752074417756
   },
   {
     title: "Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation",
@@ -59,7 +59,7 @@ var talkLocations = [
     location: "Arlington, VA",
     date: "2025-07-14",
     type: "Invited Talk",
-    lat: 38.8816,
-    lng: -77.0910
+    lat: 38.89360186340012,
+    lng: -77.07263427795444
   }
 ]; 
