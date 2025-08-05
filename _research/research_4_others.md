@@ -5,7 +5,6 @@ permalink: /research/research_4_others
 excerpt: 'A collection of research-related contributions that are not part of formal publications, including tooling, coding infrastructure, AI-assisted workflows, and exploratory projects.'
 ---
 <h2>🛠️ Pre-AI Technical Work (<span style="color: gray; font-size: 0.9em;">before 2022</span>)</h2>
-<hr>
 <p style="text-align: justify;">The following works are adopted across both Dr. Hsin Lin and Prof. Tay-Rong Chang’s research groups.</p>
 <ul>
   <li><p style="text-align: justify;">Led the consolidation of MATLAB codes on tight-binding models across projects into a unified framework to support consistent and maintainable development.</p></li>
@@ -15,7 +14,6 @@ excerpt: 'A collection of research-related contributions that are not part of fo
 </ul>
 
 <h2>🤖 AI-Enhanced Research Practice (<span style="color: gray; font-size: 0.9em;">after 2022</span>)</h2>
-<hr>
 <ul>
   <li><p style="text-align: justify;">Explored prompt engineering techniques for research writing using LLM.</p></li>
   <li><p style="text-align: justify;">Utilized AI-enhanced development environments (e.g., Cursor and Copilot) for research coding and side projects, including (but not limited to):</p></li>
@@ -27,7 +25,6 @@ excerpt: 'A collection of research-related contributions that are not part of fo
 </ul>
 
 <h2>📄 Unpublished Research Works</h2>
-<hr>
 <p style="color: gray; font-size: 0.9em;">
 <p style="text-align: justify;">These projects were completed independently, of which I am the first author. Due to shifting research focus or publication priorities, they were not submitted for publication.</p>
 </p>
