@@ -7,7 +7,6 @@ excerpt: 'A collection of research-related contributions that are not part of fo
 <h3>🛠️ Pre-AI Technical Work (<span style="color: gray; font-size: 0.9em;">before 2022</span>)</h3>
 <hr>
 Adopted across both Dr. Hsin Lin and Prof. Tay-Rong Chang’s research groups.
-</p>
 <ul>
   <li>Led the consolidation of MATLAB codes on tight-binding models across projects into a unified framework to support consistent and maintainable development.</li>
   <li>Established and managed the corresponding codebase through GitHub organization. </li>
