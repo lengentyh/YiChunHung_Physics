@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 <br>
-<i>Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.</i>
+<p style="color: gray; font-size: 0.9em;"><i>Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.</i></p>
 
 {% include base_path %}
 
@@ -22,8 +22,8 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h1>{{ category[1].title }}</h1><hr />
         <br>
+        <h1>{{ category[1].title }}</h1><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
