@@ -61,3 +61,9 @@ News
 * 2025-06-28: A new preprint ["Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlattices"](https://arxiv.org/abs/2506.22715) is uploaded to arXiv.
 * 2025-06-20: A new paper ["Majorana Kramers pairs in synthetic high-spin Chern insulators"](https://journals.aps.org/prb/abstract/10.1103/9n85-r2xw) is published on Physical Review B.
 * 2025-05-01: A new paper ["Topological characteristics and bulk-boundary correspondence in the orbital Hall effect"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195102) is published on Physical Review B.
+
+=====
+
+<hr>
+
+<p style="color: gray; font-size: 0.9em;"><i>Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.</i></p>
