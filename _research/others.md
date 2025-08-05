@@ -12,7 +12,7 @@ Adopted across both Dr. Hsin Lin and Prof. Tay-Rong Chang’s research groups.
   <li>Led the consolidation of MATLAB codes on tight-binding models across projects into a unified framework to support consistent and maintainable development.</li>
   <li>Established and managed the corresponding codebase through GitHub organization. </li>
   <li>Designed and implemented a standardized variable and notation convention within the codebase to improve clarity, reusability, and collaboration.</li>
-  <li><a href="/YiChunHung_Physics/_pages/matlab_codes">Deeveloped and Optimized MATLAB codes on tight-binding models.</a></li>
+  <li><a href="/YiChunHung_Physics/matlab_codes">Deeveloped and Optimized MATLAB codes on tight-binding models.</a></li>
 </ul>
 
 <h3>🤖 AI-Enhanced Research Practice (<span style="color: gray; font-size: 0.9em;">after 2022</span>)</h3>
