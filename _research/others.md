@@ -35,12 +35,12 @@ These projects were completed independently, of which I am the first author. Due
 <ul>
   <li>
     <strong>Topic:</strong> Graph Theoretical Real-Space Renormalization Group For Tight-Binding Hamiltonian<br>
-    <strong>Time:</strong> 2022
+    <strong>Time:</strong> 2022<br>
     <strong>Description:</strong> I used lattice graph description of tight-binding Hamiltonian to prove that it is impossible to use <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.31.5166">the renormalization method</a> to obtain localized states on higher-order boundary (e.g., corners of a nanodisk or hinges of a cuboid).
   </li>
   <li>
     <strong>Topic:</strong> Topological Two-Fold Fermions in Two- and Four-Dimensions<br>
-    <strong>Time:</strong> 2023
+    <strong>Time:</strong> 2023<br>
     <strong>Description:</strong> I discovered a four-dimensional lattice model with two-fold degenerated band touchings protected by non-trivial topology.
   </li>
 </ul>
