@@ -1,0 +1,37 @@
+---
+layout: archive
+title: "Deeveloped and Optimized Matlab Codes for Tight-Binding Calculations"
+permalink: /matlab_codes.html
+author_profile: true
+---
+
+The following Matlab codes are developed and optimized for tight-binding calculations during my research at Institute of Physics, Academia Sinica before ChatGPT.
+
+<h3>Developed Codes:</h3>
+
+<hr>
+
+<ul>
+    <li> <i>Downfolding</i>: use the renormalization method to obtain an effective low-energy Hamiltonian. Similar works has recently been published in similar works [<a href="https://arxiv.org/abs/2401.12691">1</a>][<a href="https://arxiv.org/abs/2506.22854">2</a>] on arXiv. </li>    
+    <li> <i>Basis Rotation</i>: spatially rotate the basis of the tight-binding orbitals (i.e., s-,p-,d-orbitals) to align with the crystal symmetry.</li>
+    <li> <i>Spin Moment Rotation</i>: generalized <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.094403">the method</a> of rotating the spin moments to tight-binding models in real space.</li>
+    <li> <i>Adaptive Mesh</i>: implement an adaptive mesh refinement technique to improve the calculation speed for accurate Fermi surface.</li>
+    <li> <i>Projection Spectrum from Green's Function</i>: calculate the projective spectrum through projection operator obtained by Green's function with an energy-dependent self-energy.</li>
+</ul>
+    
+<h3>Optimized Codes:</h3>
+
+<hr>
+
+<ul>
+    <li><i>Linear Conductivities</i>: optimize the integration method on 2D and 3D BZ, substantially improving the computational efficiency.</li>    
+    <li><i>Josephson Junction (JJ)</i>: optimize and format the codes simulating JJ through NEGF.</li>
+    <li><i>Quasi-Particle Interference (QPI)</i>: optimize and format the codes simulating QPI.</li>
+</ul>
+
+After 2022, I also manually developed codes without AI before I started using LLM like ChatGPT or Copilot.
+<ul>
+    <li> <i>Fukui-Hatsugai Method</i>: use <a href="https://journals.jps.jp/doi/10.1143/JPSJ.74.1674">the Fukui-Hatsugai method</a> to calculated Berry curvature in tight-binding and continuum models, as well as projective spectrum. </li>    
+    <li> <i>Optical Conductivity</i>: calculate the optical conductivity using Kubo formula in tight-binding models.</li>
+    <li> <i>Quantum Weight</i>: calculate the trace of quantum weight using the method described in the SM of Ref. [<a href="https://journals.aps.org/prb/abstract/10.1103/3kws-k867">1</a>].</li>
+</ul>
