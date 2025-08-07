@@ -44,7 +44,29 @@ Research Experience
 
 <br>
 
-Core Publications <font size="4"> (*: co-first authorship) </font>
+<style>
+.custom-tooltip {
+  position: relative;
+  display: inline-block;
+}
+.custom-tooltip:hover::after {
+  content: "Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: gray;
+  font-style: italic;
+  white-space: nowrap;
+  font-size: 14px;
+  z-index: 1000;
+}
+</style>
+<span class="custom-tooltip">Core Publications</span> <font size="4"> (*: co-first authorship) </font>
 ======
 
 <hr>
