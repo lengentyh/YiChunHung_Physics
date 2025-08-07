@@ -37,7 +37,7 @@ Research Experience
 
   * [Band topology in projective spectrum](https://lengentyh.github.io/YiChunHung_Physics//research/research_projective_spectrum) <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
 
-* __Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__
+* <span class="custom-tooltip">__Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__</span>
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
   
   * <ins>Phenomenological superconducting proximity effect modeling</ins> <font size="3"> ( tight-binding modeling on materials & lattice models ) </font>
