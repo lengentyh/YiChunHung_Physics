@@ -53,8 +53,7 @@ Research Experience
   content: "Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.";
   position: absolute;
   bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
   padding: 5px;
   background: white;
   border: 1px solid #ccc;
