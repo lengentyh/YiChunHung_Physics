@@ -5,12 +5,12 @@ permalink: /research/research_4_others
 excerpt: 'A collection of research-related contributions that are not part of formal publications, including tooling, coding infrastructure, AI-assisted workflows, and exploratory projects.'
 ---
 <h2>🛠️ Pre-AI Technical Work (<span style="color: gray; font-size: 0.9em;">before 2022</span>)</h2>
-<p style="text-align: justify;">The following works are adopted across both Dr. Hsin Lin and Prof. Tay-Rong Chang’s research groups.</p>
+<p style="text-align: justify;">The following works focus on (material-specific) tight-binding (TB) models. They are adopted across both Dr. Hsin Lin and <a href="https://scholar.google.com/citations?user=poTBYtAAAAAJ&hl=en-US">Prof. Tay-Rong Chang</a>’s research groups. See a minimal example <a href="https://github.com/Yi-ChunHung/TG3.1_mini-workshop_Apr.29">here</a>.</p>
 <ul>
-  <li><p style="text-align: justify;">Led the consolidation of MATLAB codes on tight-binding models across projects into a unified framework to support consistent and maintainable development.</p></li>
-  <li><p style="text-align: justify;">Established and managed the corresponding codebase through GitHub organization.</p></li>
+  <li><p style="text-align: justify;">Led the consolidation of MATLAB codes on TB models across projects into a unified framework to support consistent and maintainable development.</p></li>
+  <li><p style="text-align: justify;">Established and managed the corresponding codebase through private GitHub organizations.</p></li>
   <li><p style="text-align: justify;">Designed and implemented a standardized variable and notation convention within the codebase to improve clarity, reusability, and collaboration.</p></li>
-  <li><p style="text-align: justify;"><a href="/YiChunHung_Physics/matlab_codes">Deeveloped and Optimized MATLAB codes on tight-binding models.</a></p></li>
+  <li><p style="text-align: justify;"><a href="/YiChunHung_Physics/matlab_codes">Deeveloped and Optimized MATLAB codes on TB models.</a></p></li>
 </ul>
 
 <h2>🤖 AI-Enhanced Research Practice (<span style="color: gray; font-size: 0.9em;">after 2022</span>)</h2>
@@ -18,7 +18,7 @@ excerpt: 'A collection of research-related contributions that are not part of fo
   <li><p style="text-align: justify;">Explored prompt engineering techniques for research writing using LLM.</p></li>
   <li><p style="text-align: justify;">Utilized AI-enhanced development environments (e.g., Cursor and Copilot) for research coding and side projects, including (but not limited to):</p></li>
     <ul>
-      <li><p style="text-align: justify;">A Python script to automate sequential computation of SCF, relaxation, and BS in VASP.</p></li>
+      <li><p style="text-align: justify;">A Python script to automate sequential computations of SCF, relaxation, and BS through VASP.</p></li>
       <li><p style="text-align: justify;">A webpage tracking the manuscript status through interactive plots.</p></li>
       <li><p style="text-align: justify;">Some webpages in this web site.</p></li>
     </ul>
