@@ -35,7 +35,7 @@ Research Experience
 
   * [Helical Luttinger liquid in double quantum spin Hall insulators](https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI) <font size="3"> ( bosonization and perturbative RG techniques ) </font>
 
-  * [Band topology in projective spectrum](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
+  * [Band topology in projected spectrum](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
 
 * <span class="custom-tooltip">__Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__</span>
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan

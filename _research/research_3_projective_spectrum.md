@@ -1,11 +1,11 @@
 ---
-title: "Band topology in projective spectrum"
+title: "Band topology in projected spectrum"
 collection: research
 permalink: /research/research_3_projective spectrum
-excerpt: 'The band topology and quantum geometry derived from the eigenstates of the projective spectrum are as important as those derived from the energy eigenstates.'
+excerpt: 'The band topology and quantum geometry derived from the eigenstates of the projected spectrum are as important as those derived from the energy eigenstates.'
 ---
 <p style="text-align: justify;">
-Symmetry protected topological (SPT) phases establishes a robust framework to efficiently characterize ground state topology through internal (<a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.88.035005" target="_blank">Chiu et al., 2016</a>) or crystalline symmetries (<a href="https://www.nature.com/articles/nature23268" target="_blank">Bradlyn et al., 2017</a>). However, the topological characterization in symmetry-breaking phases is comparatively less well-understood than that in SPT phases. Previous approach focusing on quantum spin Hall insulators (QSHIs) without the spin-U(1) symmetry or time-reversal symmetry (TRS) utlizes <strong>the spectrum of the projective operator</strong>:
+Symmetry protected topological (SPT) phases establishes a robust framework to efficiently characterize ground state topology through internal (<a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.88.035005" target="_blank">Chiu et al., 2016</a>) or crystalline symmetries (<a href="https://www.nature.com/articles/nature23268" target="_blank">Bradlyn et al., 2017</a>). However, the topological characterization in symmetry-breaking phases is comparatively less well-understood than that in SPT phases. Previous approach focusing on quantum spin Hall insulators (QSHIs) without the spin-U(1) symmetry or time-reversal symmetry (TRS) utlizes <strong>the spectrum of the projected operator</strong>:
 </p>
 <div style="text-align: center;">
 $$

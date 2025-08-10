@@ -32,7 +32,7 @@ I am broadly interested in theoretical condensed matter physics and its applicat
     - __Associated physical responses__.
 
 <p style="text-align: justify;">
-I also have experience in <strong>Luttinger liquid theory</strong> and <strong>band topology in the projective spectrum</strong>, and maintain an interest in <strong>non-equilibrium systems</strong>.
+I also have experience in <strong>Luttinger liquid theory</strong> and <strong>band topology in the projected spectrum</strong>, and maintain an interest in <strong>non-equilibrium systems</strong>.
 </p>
 
 <br>
