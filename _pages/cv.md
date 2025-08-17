@@ -13,6 +13,15 @@ You can download the PDF version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7
 
 <br>
 
+Research Summary
+======
+
+<hr>
+
+Theoretical condensed matter physicist focusing on band topology, quantum geometry, and flat-band physics. My work combines analytical methods and numerical simulations to explore the properties of moiré and low-dimensional materials. Passionate about advancing our understanding of physics in complex quantum systems and contributing to the theoretical foundations of next-generation quantum technologies.
+
+<br>
+
 Education
 ======
 
