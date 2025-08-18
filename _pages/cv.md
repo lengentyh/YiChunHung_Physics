@@ -18,7 +18,9 @@ Research Summary
 
 <hr>
 
+<p style="text-align: justify;">
 Theoretical condensed matter physicist focusing on band topology, quantum geometry, and flat-band physics. My work combines analytical methods and numerical simulations to explore the properties of moiré and low-dimensional materials. Passionate about advancing our understanding of physics in complex quantum systems and contributing to the theoretical foundations of next-generation quantum technologies.
+</p>
 
 <br>
 
