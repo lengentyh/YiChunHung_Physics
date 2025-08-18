@@ -37,7 +37,7 @@ excerpt: 'A collection of research-related contributions that are not part of fo
   <li>
     <strong>Topic:</strong> Valley Topology<br>
     <strong>Time:</strong> 2023<br>
-    <p style="text-align: justify;"><strong>Description:</strong> I analyzed a multilayer spin-valley locking system through projective spectrum. I discovered that the layer and the valley degrees of freedom are also locked in this system, and the topology carried by the valleys can thus be well-defined through projective spectrum.</p>
+    <p style="text-align: justify;"><strong>Description:</strong> I analyzed a multilayer spin-valley locking system through projected spectrum. I discovered that the layer and the valley degrees of freedom are also locked in this system, and the topology carried by the valleys can thus be well-defined through projected spectrum.</p>
   </li>
   <li>
     <strong>Topic:</strong> Graph Theoretical Real-Space Renormalization Group For Tight-Binding Hamiltonian<br>
