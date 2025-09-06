@@ -11,6 +11,8 @@ redirect_from:
 
 You can download the PDF version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7VIQjw--/lengentyh).
 
+[Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
+
 <br>
 
 Research Summary
