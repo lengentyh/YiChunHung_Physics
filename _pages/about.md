@@ -66,3 +66,5 @@ News
 <br>
 
 <hr>
+
+<p style="color: gray; font-size: 0.9em;"><i>Note: My collaboration with Dr. Hsin Lin ended in 2023. Some previously completed work may still appear in future publications.</i></p>
