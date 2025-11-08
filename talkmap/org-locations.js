@@ -61,5 +61,23 @@ var talkLocations = [
     type: "Invited Talk",
     lat: 38.89360186340012,
     lng: -77.07263427795444
+  },
+  {
+    title: "Generation of Isolated Flat Bands with Tunable Numbers through Moiré Engineering",
+    venue: "AThe New England Section of the American Physical Society",
+    location: "Providence, RI",
+    date: "2025-11-07",
+    type: "Poster Presentation",
+    lat: 41.82685884681291,
+    lng: -71.3980877382028
+  },
+  {
+    title: "Quantum Geometry Driven Fluctuation Phenomena in Flat-Band Systems",
+    venue: "The New England Section of the American Physical Society",
+    location: "Providence, RI",
+    date: "2025-11-07",
+    type: "Contributing Talk",
+    lat: 41.82920547018655,
+    lng: -71.40291590325432
   }
 ]; 
