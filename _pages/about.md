@@ -57,6 +57,8 @@ News
 
 <hr>
 
+* 2025-11-07: A contributing talk ["Quantum Geometry Driven Fluctuation Phenomena in Flat-Band Systems"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-11-07-talk) is given at The New England Section of the American Physical Society.
+* 2025-11-07: A poster presentation ["Generation of Isolated Flat Bands with Tunable Numbers through Moiré Engineering"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-11-07-poster) is given at The New England Section of the American Physical Society.
 * 2025-07-14: An invited talk ["Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-07-14-invited-talk) is given at Annual Meeting of NSF-ExpandQISE 2: Exotic Physics and Applications of Solid-State Qubits.
 * 2025-07-14: A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B as a Letter.
 * 2025-06-28: A new preprint ["Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlattices"](https://arxiv.org/abs/2506.22715) is uploaded to arXiv.
