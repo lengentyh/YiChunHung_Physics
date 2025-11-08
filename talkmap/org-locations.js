@@ -64,7 +64,7 @@ var talkLocations = [
   },
   {
     title: "Generation of Isolated Flat Bands with Tunable Numbers through Moiré Engineering",
-    venue: "AThe New England Section of the American Physical Society",
+    venue: "The New England Section of the American Physical Society",
     location: "Providence, RI",
     date: "2025-11-07",
     type: "Poster Presentation",
