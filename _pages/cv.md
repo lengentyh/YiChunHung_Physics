@@ -89,7 +89,7 @@ Research Experience
 
 <br>
 
-Skills
+Numerical Skills
 ======
 
 <hr>
