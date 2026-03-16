@@ -57,6 +57,8 @@ News
 
 <hr>
 
+* 2026-02-10: A new preprint ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://arxiv.org/abs/2603.13041) is posted on arXiv.
+* 2026-03-15: A nwe preprint ["Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum"](https://arxiv.org/abs/2603.13128) is posted on arXiv.
 * 2026-02-10: An invited talk ["More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators"](https://lengentyh.github.io/YiChunHung_Physics/talks/2026-02-10-invited-talk) is given at Institute of Physics, Academia Sinica.
 * 2025-11-20: A new paper ["Tunable competing electronic orders in double quantum spin Hall superlattices"](https://journals.aps.org/prb/abstract/10.1103/m2bh-fly5) is published on Physical Review B.
 * 2025-11-07: A contributing talk ["Quantum Geometry Driven Fluctuation Phenomena in Flat-Band Systems"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-11-07-talk) is given at The New England Section of the American Physical Society.
