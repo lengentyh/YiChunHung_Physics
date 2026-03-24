@@ -57,6 +57,8 @@ News
 
 <hr>
 
+* 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
+* 2026-03-23: A new preprint ["Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm"](https://arxiv.org/abs/2603.20852) is posted on arXiv.
 * 2026-03-15: A new preprint ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://arxiv.org/abs/2603.13041) is posted on arXiv.
 * 2026-03-15: A nwe preprint ["Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum"](https://arxiv.org/abs/2603.13128) is posted on arXiv.
 * 2026-02-10: An invited talk ["More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators"](https://lengentyh.github.io/YiChunHung_Physics/talks/2026-02-10-invited-talk) is given at Institute of Physics, Academia Sinica.
