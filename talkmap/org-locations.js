@@ -1,5 +1,32 @@
 var talkLocations = [
   {
+    title: "Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands",
+    venue: "APS March Meeting",
+    location: "Denver, CO",
+    date: "2026-03-16",
+    type: "Contributing Talk",
+    lat: 39.74335115651477,
+    lng: -104.9955557505364
+  },
+  {
+    title: "Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm",
+    venue: "APS March Meeting",
+    location: "Denver, CO",
+    date: "2026-03-19",
+    type: "Contributing Talk",
+    lat: 39.74335115651477,
+    lng: -104.9955557505364
+  },
+  {
+    title: "More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators",
+    venue: "Institute of Physics, Academia Sinica",
+    location: "Taipei, Taiwan",
+    date: "2026-02-10",
+    type: "Invited Talk",
+    lat: 25.041252338596266,
+    lng: 121.61696536463612
+  },
+  {
     title: "Moiré Engineering for Tunable Numbers of Flat Bands and Its Quantum Geometry",
     venue: "Institute of Physics, Academia Sinica",
     location: "Taipei, Taiwan",
