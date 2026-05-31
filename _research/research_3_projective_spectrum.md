@@ -45,6 +45,6 @@ Here, \(K_c\) is a quantum geometric correction arising from symmetry-breaking p
 
  - <a name="2">[2]</a>  Baokai Wang*, __Yi-Chun Hung*__, Hsin Lin, Sheng Li, Rui-Hua He, and Arun Bansil. Topological characteristics and bulk-boundary correspondence in the orbital Hall effect. [_Phys. Rev. B 111_, 195102 (2025)](https://lengentyh.github.io/YiChunHung_Physics//publication/2025-05-01-OHE).
 
- - <a name="3">[3]</a>  __Yi-Chun Hung*__, Tzen Ong*, and Hsin Lin. Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum from Nested Feature Spectrum Topology. [_arXiv:2603.13128_](https://lengentyh.github.io/YiChunHung_Physics/publication/2026-03-15-feature_2).
+ - <a name="3">[3]</a>  **Yi-Chun Hung\***, Tzen Ong*, and Hsin Lin. Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum from Nested Feature Spectrum Topology. [_arXiv:2603.13128_](https://lengentyh.github.io/YiChunHung_Physics/publication/2026-03-15-feature_2).
 
- - <a name="4">[4]</a>  __Yi-Chun Hung*__, Yugo Onishi*, Hsin Lin, Liang Fu, and Arun Bansil. Extending Topological bound on Quantum Weight Beyond Symmetry-Protected Topological Phase. [_arXiv:2603.13041_](https://lengentyh.github.io/YiChunHung_Physics/publication/2026-03-15-quantumweight).
+ - <a name="4">[4]</a>  **Yi-Chun Hung\***, Yugo Onishi*, Hsin Lin, Liang Fu, and Arun Bansil. Extending Topological bound on Quantum Weight Beyond Symmetry-Protected Topological Phase. [_arXiv:2603.13041_](https://lengentyh.github.io/YiChunHung_Physics/publication/2026-03-15-quantumweight).
