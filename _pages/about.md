@@ -11,7 +11,7 @@ redirect_from:
 <br>
 
 <!-- ![profile](../images/profile-20240104.png) -->
-<img align="right" style="float: right; margin-left: 10px;" width="35%" src="/YiChunHung_Physics/images/MURI_2025.jpg">
+<!-- <img align="right" style="float: right; margin-left: 10px;" width="35%" src="/YiChunHung_Physics/images/MURI_2025.jpg"> -->
 
 Research Interests
 =====
@@ -23,16 +23,16 @@ I am broadly interested in theoretical condensed matter physics and its applicat
 
  - __Machine learning methods in material discovery__
 
- - __Moiré flat bands in twisted multilayers__, particularly:
+ - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band"><strong>Flat bands in low-dimensional quantum materials</strong></a>, particularly:
   
-    - __Band topology__, 
-    
-    - __Quantum geometry__, 
-    
-    - __Associated physical responses__.
+    - Band topology and quantum geometry
+
+    - Their interplay with interacting phases
+
+    - Associated responses
 
 <p style="text-align: justify;">
-I also have experience in <strong>Luttinger liquid theory</strong> and <strong>band topology in the projected spectrum</strong>, and maintain an interest in <strong>non-equilibrium systems</strong>.
+I also have expertise in <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI"><strong>Luttinger liquid theory</strong></a> and <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum"><strong>band topology in the projected spectrum</strong></a>, and maintain an interest in <strong>non-equilibrium systems</strong>.
 </p>
 
 <br>
@@ -68,7 +68,6 @@ News
 * 2025-07-14: An invited talk ["Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-07-14-invited-talk) is given at Annual Meeting of NSF-ExpandQISE 2: Exotic Physics and Applications of Solid-State Qubits.
 * 2025-07-14: A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B as a Letter.
 * 2025-06-20: A new paper ["Majorana Kramers pairs in synthetic high-spin Chern insulators"](https://journals.aps.org/prb/abstract/10.1103/9n85-r2xw) is published on Physical Review B.
-* 2025-05-01: A new paper ["Topological characteristics and bulk-boundary correspondence in the orbital Hall effect"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195102) is published on Physical Review B.
 
 <br>
 
