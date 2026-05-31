@@ -29,7 +29,7 @@ Most importantly, <strong>we provide a rigorous mathematical proof of the corres
 </p>
 
 <p style="text-align: justify;">
-In addition to band topology and their characterization, by using the framework of projected spectrum, we extend the topological lower bound of quantum weight \(K\) (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196806" target="_blank">Li et al., 2012</a>) beyond the SPT phases <a href="#4">[4]</a>, leading to 
+In addition to band topology and their characterization, by using the framework of projected spectrum, we extend the topological lower bound of quantum weight \(K\) (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011052" target="_blank">Onishi et al., 2012</a>) beyond the SPT phases <a href="#4">[4]</a>, leading to 
 </p>
 <div style="text-align: center;">
 $$
