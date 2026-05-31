@@ -9,11 +9,11 @@ Symmetry protected topological (SPT) phases establishes a robust framework to ef
 </p>
 <div style="text-align: center;">
 $$
-\mathcal{S}_{\mathbf{\hat{p}}\cdot\mathbf{\hat{n}}}=P\mathbf{\hat{S}}\cdot\mathbf{\hat{n}}P,
+\mathcal{S}_{\mathbf{\hat{p}}}=P\mathbf{\hat{S}}\cdot\mathbf{\hat{n}}P,
 $$
 </div>
 <p style="text-align: justify;">
-where \(P\) is the projection operator of the manifold of interest and \(\mathbf{\hat{S}}\cdot\mathbf{\hat{n}}\) is the spin operator (pointing to \(\mathbf{\hat{n}}\)-direction) of interest (<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.80.125327" target="_blank">Prodan, 2009</a>), leading to the spin-resolved topology (<a href="https://www.nature.com/articles/s41467-024-44762-w" target="_blank">Lin et al., 2024</a>). In this framework, the ground state topology is characterized by the band topology of the spectrum of \(\mathcal{P}_{\mathbf{\hat{S}}\cdot\mathbf{\hat{n}}}\), which remains well-defined even when the spin-U(1) symmetry and TRS are broken. The corresponding bulk-boundary correspondence is also numerically demonstrated in previous work (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196806" target="_blank">Li et al., 2012</a>). However, a rigorous proof and extensions to general cases beyond QSHIs remain to be elucidated.
+where \(P\) is the projection operator of the manifold of interest and \(\mathbf{\hat{S}}\cdot\mathbf{\hat{n}}\) is the spin operator (pointing to \(\mathbf{\hat{n}}\)-direction) of interest (<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.80.125327" target="_blank">Prodan, 2009</a>), leading to the spin-resolved topology (<a href="https://www.nature.com/articles/s41467-024-44762-w" target="_blank">Lin et al., 2024</a>). In this framework, the ground state topology is characterized by the band topology of the spectrum of \(\mathcal{S}_{\mathbf{\hat{p}}}\), which remains well-defined even when the spin-U(1) symmetry and TRS are broken. The corresponding bulk-boundary correspondence is also numerically demonstrated in previous work (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196806" target="_blank">Li et al., 2012</a>). However, a rigorous proof and extensions to general cases beyond QSHIs remain to be elucidated.
 </p>
 
 <p style="text-align: justify;">
