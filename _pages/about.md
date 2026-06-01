@@ -23,7 +23,7 @@ I am broadly interested in theoretical condensed matter physics and its applicat
 
  - __Machine learning methods in material discovery__
 
- - <strong>Flat bands in moiré and low-dimensional quantum materials</strong></a>, particularly:
+ - <strong>Flat bands in moiré and low-dimensional quantum materials</strong>, particularly:
   
     - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band">Band topology and quantum geometry</a>
 
@@ -32,7 +32,7 @@ I am broadly interested in theoretical condensed matter physics and its applicat
     - Associated responses
 
 <p style="text-align: justify;">
-I also have expertise in <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI"><strong>Luttinger liquid theory</strong></a> and <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum"><strong>band topology in the projected spectrum</strong></a>, and maintain an interest in <strong>non-equilibrium systems</strong>.
+I also have expertise in <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI"><strong>Luttinger liquid theory</strong></a> and <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum"><strong>band topology in the projected spectrum</strong></a>, and maintain an interest in <strong>non-equilibrium systems</strong> and <strong>inverse design</strong>.
 </p>
 
 <br>
