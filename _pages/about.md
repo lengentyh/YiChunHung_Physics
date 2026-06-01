@@ -23,9 +23,9 @@ I am broadly interested in theoretical condensed matter physics and its applicat
 
  - __Machine learning methods in material discovery__
 
- - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band"><strong>Flat bands in low-dimensional quantum materials</strong></a>, particularly:
+ - <strong>Flat bands in moiré and low-dimensional quantum materials</strong></a>, particularly:
   
-    - Band topology and quantum geometry
+    - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band">Band topology and quantum geometry</a>
 
     - Their interplay with interacting phases
 
