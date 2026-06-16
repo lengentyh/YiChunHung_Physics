@@ -57,6 +57,7 @@ News
 
 <hr>
 
+* 2026-06-15: A new preprint ["Staggered Virtual-Loop-Current Order in Pseudospin-1 Dirac Flat Bands"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
 * 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
 * 2026-03-23: A new preprint ["Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm"](https://arxiv.org/abs/2603.20852) is posted on arXiv.
 * 2026-03-15: A new preprint ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://arxiv.org/abs/2603.13041) is posted on arXiv.
