@@ -27,12 +27,12 @@ I am broadly interested in theoretical condensed matter physics and its applicat
   
     - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band">Band topology and quantum geometry</a>
 
-    - Their interplay with interacting phases
+    - <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_5_flat_band_int">Their interplay with interacting phases</a>
 
     - Associated responses
 
 <p style="text-align: justify;">
-I also have expertise in <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI"><strong>Luttinger liquid theory</strong></a> and <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum"><strong>band topology in the projected spectrum</strong></a>, and maintain an interest in <strong>non-equilibrium systems</strong> and <strong>inverse design</strong>.
+I also have expertise in <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI"><strong>Luttinger liquid theory</strong></a> and <a href="https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum"><strong>band topology beyond SPT phases</strong></a>, and maintain an interest in <strong>non-equilibrium systems</strong> and <strong>inverse design of low-dimensional materials</strong>.
 </p>
 
 <br>
@@ -57,6 +57,8 @@ News
 
 <hr>
 
+* 2026-06-22: A new preprint ["Helical Domain-Wall-Ring Networks Reshape Superconducting Correlations"](https://arxiv.org/abs/2606.23599) is posted on arXiv.
+* 2026-06-22: A new preprint ["Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems"](https://arxiv.org/abs/2606.23598) is posted on arXiv.
 * 2026-06-15: A new preprint ["Staggered Virtual-Loop-Current Order in Pseudospin-1 Dirac Flat Bands"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
 * 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
 * 2026-03-23: A new preprint ["Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm"](https://arxiv.org/abs/2603.20852) is posted on arXiv.
@@ -64,8 +66,6 @@ News
 * 2026-03-15: A nwe preprint ["Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum"](https://arxiv.org/abs/2603.13128) is posted on arXiv.
 * 2026-02-10: An invited talk ["More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators"](https://lengentyh.github.io/YiChunHung_Physics/talks/2026-02-10-invited-talk) is given at Institute of Physics, Academia Sinica.
 * 2025-11-20: A new paper ["Tunable competing electronic orders in double quantum spin Hall superlattices"](https://journals.aps.org/prb/abstract/10.1103/m2bh-fly5) is published on Physical Review B.
-* 2025-11-07: A contributing talk ["Quantum Geometry Driven Fluctuation Phenomena in Flat-Band Systems"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-11-07-talk) is given at The New England Section of the American Physical Society.
-* 2025-11-07: A poster presentation ["Generation of Isolated Flat Bands with Tunable Numbers through Moiré Engineering"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-11-07-poster) is given at The New England Section of the American Physical Society.
 * 2025-07-14: An invited talk ["Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-07-14-invited-talk) is given at Annual Meeting of NSF-ExpandQISE 2: Exotic Physics and Applications of Solid-State Qubits.
 * 2025-07-14: A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B as a Letter.
 * 2025-06-20: A new paper ["Majorana Kramers pairs in synthetic high-spin Chern insulators"](https://journals.aps.org/prb/abstract/10.1103/9n85-r2xw) is published on Physical Review B.

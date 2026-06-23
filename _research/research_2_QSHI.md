@@ -1,5 +1,5 @@
 ---
-title: "Helical Luttinger liquid (HLL) in double quantum spin Hall insulators (DQSHIs)"
+title: "Helical Luttinger liquid (HLL) in double quantum spin Hall insulators (DQSHIs) and helical domain-wall-ring network"
 collection: research
 permalink: /research/research_2_QSHI
 excerpt: 'More (helical edge states) is different!'
@@ -17,6 +17,15 @@ excerpt: 'More (helical edge states) is different!'
 <strong>Double Quantum Spin Hall Insulators (DQSHIs)</strong> extend the QSHI concept by supporting two independent helical edge channels, often arising from systems with high spin Chern or mirror Chern numbers <a href="#1">[1]</a><a href="#2">[2]</a>. Such a high spin (mirror) Chern number indicates that the edge Dirac cones are not protected by TRS and can be open due to spin-U(1) symmetry breaking perturbations. Also, the coexistence of multiple helical edge modes introduces the possibility of inter-channel forward scattering. These properties indicate that low-energy states in DQSHIs can be gapped without breaking TRS or the presence of Umklapp scattering&mdash;a sharp contrast to QSHIs. This leads to a <i>higher-order topological insulator phase </i> <a href="#3">[3]</a><a href="#4">[4]</a>, as well as correlated phases supporting <i>Majorana Kramers pairs</i> <a href="#5">[5]</a> and <i>competing &pi;-superconductivity and &pi;-spin density wave</i> <a href="#6">[6]</a>.
 </p>
 
+<figure style="float: right; width: 40%; text-align: center; margin-left: 1em;">
+  <img src="../images/helical_ring.png" alt="Description" style="width: 100%;">
+  <figcaption style="font-size: 1em;">A schematic of helical domain-wall-ring network <a href="#7">[7]</a>.</figcaption>
+</figure>
+
+<p style="text-align: justify;">
+Beyond QSHI and DQSHIsm 1D helical states can also emerge at the domain-walls of a moiré pattern (<a href="https://arxiv.org/abs/2605.27548" target="_blank">Bordoloi et al., 2026</a>), forming <i>helical domain-wall-ring network</i>. In helical domain-wall-ring networks formed in twisted bilayer honeycomb systems, we found that superconducting correlations are qualitatively reshaped by the interplay of ring confinement and interactions <a href="#7">[7]</a>: As the twist angle decreases, the pair-tunneling-induced mass is strongly suppressed by phase-different fluctuations while the sueprconducting scaling dimension remain decreasing. Instead of simply approaching the infinite-size limit at small twist angle, where the pair tunneling is RG relevant and induces significant mass term, these networks exhibit a distinct fluctuation regime controlled by their ring-network geometry. 
+</p>
+
 ## Related Publications
  - <a name="1">[1]</a> Yueh-Ting Yao, Xiaoting Zhou, __Yi-Chun Hung__, Hsin Lin, Arun Bansil, and Tay-Rong Chang. Feature-energy duality of topological boundary states in a multilayer quantum spin Hall insulator. [_Phys. Rev. B 109_, 155143 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.155143).
  - <a name="2">[2]</a> Baokai Wang, Xiaoting Zhou, __Yi-Chun Hung__, Yen-Chuan Lin, Hsin Lin, and Arun Bansil. High spin-chern-number insulator in α-antimonene with a hidden topological phase. [_2D Materials 11_ 025033 (2024)](https://iopscience.iop.org/article/10.1088/2053-1583/ad3136/meta).
@@ -24,3 +33,4 @@ excerpt: 'More (helical edge states) is different!'
  - <a name="4">[4]</a> __Yi-Chun Hung__, Baokai Wang, Chen-Hsuan Hsu, Arun Bansil, and Hsin Lin. Time-reversal soliton pairs in even spin Chern number higher-order topological insulators. [_Phys. Rev. B 110_, 035125 (2024)](https://lengentyh.github.io/YiChunHung_Physics//publication/2024-07-08-HOTI).
  - <a name="5">[5]</a> __Yi-Chun Hung__, Chen-Hsuan Hsu, and Arun Bansil. Majorana Kramers pairs in synthetic high-spin Chern insulators. [_Phys. Rev. B 111_, 245145 (2025)](https://lengentyh.github.io/YiChunHung_Physics//publication/2025-06-20-Majorana).
  - <a name="6">[6]</a> __Yi-Chun Hung__, Chen-Hsuan Hsu, and Arun Bansil. Tunable Competing Electronic Orders in Double Quantum Spin Hall Superlattices. [_Phys. Rev. B 112_, 195127 (2025)](https://lengentyh.github.io/YiChunHung_Physics//publication/2025-11-20-superlattice).
+ - <a name="7">[7]</a> __Yi-Chun Hung__ and Arun Bansil. Helical Domain-Wall-Ring Networks Reshape Superconducting Correlations. [_arXiv:2606.23599_](https://lengentyh.github.io/YiChunHung_Physics//publication/2026-06-22-Helical-Ring).
