@@ -1,5 +1,14 @@
 var talkLocations = [
   {
+    title: "Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases",
+    venue: "Gordon Research Conference on Correlated Electron Systems",
+    location: "South Hadley, MA",
+    date: "2026-06-29",
+    type: "Poster Presentation",
+    lat: 42.254209,
+    lng: -72.576943
+  },
+  {
     title: "Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands",
     venue: "APS March Meeting",
     location: "Denver, CO",
