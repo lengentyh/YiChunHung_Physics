@@ -21,7 +21,7 @@ Research Summary
 <hr>
 
 <p style="text-align: justify;">
-Theoretical condensed matter physicist focusing on band topology, quantum geometry, and flat-band physics. My work combines analytical methods and numerical simulations to explore the properties of moiré and low-dimensional materials. Passionate about advancing our understanding of physics in complex quantum systems and contributing to the theoretical foundations of next-generation quantum technologies.
+Theoretical condensed matter physicist specializing in band topology, quantum geometry, and flat-band physics. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials and to accelerate the discovery of next-generation quantum materials.
 </p>
 
 <br>
@@ -44,16 +44,16 @@ Research Experience
 * __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
    > May 2023 - present • Boston, MA, USA
   
-  * [Moiré and flat band physics in bipartite lattices](https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band) <font size="3"> ( TB & conti. modeling, quantum geometry, GL theory, and HF calculation ) </font>
+  * [Lattice-geometry-driven flat-band physics](https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band) 
 
-  * [Helical Luttinger liquid in double quantum spin Hall insulators](https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI) <font size="3"> ( bosonization and perturbative RG techniques ) </font>
+  * [Unconventional helical Luttinger liquids](https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI) 
 
-  * [Band topology in projected spectrum](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) <font size="3"> ( topological phases and analytical treatment of bulk-boundary correspondence ) </font>
+  * [Topological band theory beyond SPT phases](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) 
 
 * <span class="custom-tooltip">__Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__</span>
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
   
-  * <ins>Phenomenological superconducting proximity effect modeling</ins> <font size="3"> ( tight-binding modeling on materials & lattice models ) </font>
+  * <ins>Phenomenological superconducting proximity effect modeling</ins> 
 
 <br>
 
@@ -89,15 +89,27 @@ Research Experience
 
 <br>
 
+Analytical Experties
+======
+
+<hr>
+
+* Effective band-projected interaction theory
+* Continuum modeling for moiré materials
+* Bosonization and RG analysis
+* Quantum geometry and band topology in projected spectrum
+
+<br>
+
 Numerical Skills
 ======
 
 <hr>
 
+* Tight-binding modeling on lattice models and materials
 * Familiar with computing on HPC clusters
 * First-principles calculation using VASP
-* Proficient in coding with Matlab
-* Coding with Python 3 and Mathematica
+* Coding with Matlab and Python 3
 
 <br>
 
