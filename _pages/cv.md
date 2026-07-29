@@ -21,7 +21,7 @@ Research Summary
 <hr>
 
 <p style="text-align: justify;">
-Theoretical condensed matter physicist specializing in band topology, quantum geometry, and flat-band physics. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials and to accelerate the discovery of next-generation quantum materials.
+Theoretical condensed matter physicist specializing in band topology, quantum geometry, and flat-band physics. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials for accelerating the discovery of next-generation quantum materials.
 </p>
 
 <br>
@@ -48,7 +48,7 @@ Research Experience
 
   * [Unconventional helical Luttinger liquids](https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI) 
 
-  * [Topological band theory beyond SPT phases](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) 
+  * [Topological band theory beyond symmetry-protected topological phases](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) 
 
 * <span class="custom-tooltip">__Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__</span>
   > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
