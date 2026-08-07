@@ -21,7 +21,7 @@ Research Summary
 <hr>
 
 <p style="text-align: justify;">
-Theoretical condensed matter physicist specializing in band topology, quantum geometry, and flat-band physics. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials for accelerating the discovery of next-generation quantum materials.
+Theoretical condensed matter physicist specializing in lattice modeling, flat-band physics, band topology, and quantum geometry. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials for accelerating the discovery and design of next-generation quantum materials.
 </p>
 
 <br>
@@ -32,6 +32,7 @@ Education
 <hr>
 
 * __Ph.D. in Physics, Northeastern University__, 2022 - present
+* __M.S. in Physics, Northeastern University__, 2022 - 2024
 * __B.S. in Physics, National Taiwan University__, 2017 - 2021
 
 <br>
