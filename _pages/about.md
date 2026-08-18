@@ -59,16 +59,13 @@ News
 
 * 2026-06-22: A new preprint ["Helical Domain-Wall-Ring Networks Reshape Superconducting Correlations"](https://arxiv.org/abs/2606.23599) is posted on arXiv.
 * 2026-06-22: A new preprint ["Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems"](https://arxiv.org/abs/2606.23598) is posted on arXiv.
-* 2026-06-15: A new preprint ["Staggered Virtual-Loop-Current Order in Pseudospin-1 Dirac Flat Bands"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
+* 2026-06-15: A new preprint ["Inter-Dirac-cone Coherence Beyond the Valley Framework"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
 * 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
 * 2026-03-23: A new preprint ["Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm"](https://arxiv.org/abs/2603.20852) is posted on arXiv.
 * 2026-03-15: A new preprint ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://arxiv.org/abs/2603.13041) is posted on arXiv.
 * 2026-03-15: A nwe preprint ["Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum"](https://arxiv.org/abs/2603.13128) is posted on arXiv.
 * 2026-02-10: An invited talk ["More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators"](https://lengentyh.github.io/YiChunHung_Physics/talks/2026-02-10-invited-talk) is given at Institute of Physics, Academia Sinica.
 * 2025-11-20: A new paper ["Tunable competing electronic orders in double quantum spin Hall superlattices"](https://journals.aps.org/prb/abstract/10.1103/m2bh-fly5) is published on Physical Review B.
-* 2025-07-14: An invited talk ["Quantum Materials and Topology: Toward Robust Platforms for Quantum Computation"](https://lengentyh.github.io/YiChunHung_Physics//talks/2025-07-14-invited-talk) is given at Annual Meeting of NSF-ExpandQISE 2: Exotic Physics and Applications of Solid-State Qubits.
-* 2025-07-14: A new paper ["Geometry-driven moiré engineering in twisted bilayers hosting high-pseudospin fermions"](https://journals.aps.org/prb/abstract/10.1103/3kws-k867) is published on Physical Review B as a Letter.
-* 2025-06-20: A new paper ["Majorana Kramers pairs in synthetic high-spin Chern insulators"](https://journals.aps.org/prb/abstract/10.1103/9n85-r2xw) is published on Physical Review B.
 
 <br>
 
