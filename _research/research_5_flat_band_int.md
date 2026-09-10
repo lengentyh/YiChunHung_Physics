@@ -19,4 +19,4 @@ We also showed that, in a flat band without spin-orbit coupling, interaction and
 
 ## Related Publications
  - <a name="1">[1]</a> __Yi-Chun Hung__ and Arun Bansil. Staggered Virtual-Loop-Current Order in Pseudospin-1 Dirac Flat Bands. [_arXiv:2606.16155_](https://lengentyh.github.io/YiChunHung_Physics//publication/2026-06-15-Dice-HF).
- - <a name="2">[2]</a> __Yi-Chun Hung__, Xiaoting Zhou, and Arun Bansil. Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems. [_arXiv:2606.23598_](https://lengentyh.github.io/YiChunHung_Physics//publication/2026-06-22-Flat-Exciton).
+ - <a name="2">[2]</a> __Yi-Chun Hung__, Xiaoting Zhou, and Arun Bansil. Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems. [_Materials Today Quantum_, 100076 (2026)](https://lengentyh.github.io/YiChunHung_Physics//publication/2026-09-10-Flat-Exciton).
