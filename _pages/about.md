@@ -57,12 +57,12 @@ News
 
 <hr>
 
+* 2026-03-15: A new paper ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://journals.aps.org/prl/abstract/10.1103/vmhd-jn5y) is published on Physical Review Letters.
 * 2026-09-10: A new paper ["Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems"](https://doi.org/10.1016/j.mtquan.2026.100076) is published on Materials Today Quantum.
 * 2026-06-22: A new preprint ["Helical Domain-Wall-Ring Networks Reshape Superconducting Correlations"](https://arxiv.org/abs/2606.23599) is posted on arXiv.
 * 2026-06-15: A new preprint ["Inter-Dirac-cone Coherence Beyond the Valley Framework"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
 * 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
 * 2026-03-23: A new preprint ["Quantum Geometry of Moiré Flat Bands Beyond the Valley Paradigm"](https://arxiv.org/abs/2603.20852) is posted on arXiv.
-* 2026-03-15: A new preprint ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://arxiv.org/abs/2603.13041) is posted on arXiv.
 * 2026-03-15: A nwe preprint ["Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum"](https://arxiv.org/abs/2603.13128) is posted on arXiv.
 * 2026-02-10: An invited talk ["More is different at the edge: helical Luttinger liquid in double quantum spin Hall insulators"](https://lengentyh.github.io/YiChunHung_Physics/talks/2026-02-10-invited-talk) is given at Institute of Physics, Academia Sinica.
 * 2025-11-20: A new paper ["Tunable competing electronic orders in double quantum spin Hall superlattices"](https://journals.aps.org/prb/abstract/10.1103/m2bh-fly5) is published on Physical Review B.
