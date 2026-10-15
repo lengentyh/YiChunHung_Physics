@@ -21,7 +21,7 @@ Research Summary
 <hr>
 
 <p style="text-align: justify;">
-Theoretical condensed matter physicist specializing in lattice modeling, flat-band physics, band topology, and quantum geometry. I develop analytical theories and numerical methods to understand emergent quantum phenomena in moiré and low-dimensional materials for accelerating the discovery and design of next-generation quantum materials.
+Theoretical condensed matter physicist specializing in flat-band physics, band topology, quantum geometry, and interaction-driven phenomena in low-dimensional and moiré systems. I combine analytical theory, numerical modeling, first-principles calculations, and symmetry-aware generative models to investigate emergent quantum phenomena and advance quantum-materials discovery and design.
 </p>
 
 <br>
