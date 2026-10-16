@@ -21,7 +21,7 @@ Research Summary
 <hr>
 
 <p style="text-align: justify;">
-Theoretical condensed matter physicist specializing in flat-band physics, band topology, quantum geometry, and interaction-driven phenomena in low-dimensional and moiré systems. I combine analytical theory, numerical modeling, first-principles calculations, and symmetry-aware generative models to investigate emergent quantum phenomena and advance quantum-materials discovery and design.
+Theoretical condensed matter physicist specializing in flat-band physics, band topology, quantum geometry, and interaction-driven phenomena in low-dimensional and moiré systems. I combine analytical theory, numerical modeling, first-principles calculations, and symmetry-aware constrained generative models to investigate emergent quantum phenomena and advance quantum-materials discovery and design.
 </p>
 
 <br>
@@ -95,10 +95,10 @@ Analytical Experties
 
 <hr>
 
+* Quantum geometry and topological band theory
+* Bosonization and perturbative RG analysis
 * Effective band-projected interaction theory
-* Continuum modeling for moiré materials
-* Bosonization and RG analysis
-* Quantum geometry and band topology in projected spectrum
+
 
 <br>
 
@@ -107,10 +107,11 @@ Numerical Skills
 
 <hr>
 
-* Tight-binding modeling on lattice models and materials
-* Familiar with computing on HPC clusters
-* First-principles calculation using VASP
-* Coding with Matlab and Python 3
+* Tight-binding calculations (lattice and Wannier-derived models)
+* Continuum modeling for moiré materials
+* Computing on HPC clusters (Explorer, NERSC)
+* First-principles calculations using VASP
+* Coding with MATLAB and Python 3
 
 <br>
 
@@ -121,8 +122,6 @@ Honors and Awards
 
 * Graduate Academic Excellence First-Year 2022-2023, Northeastern University, Boston, MA, USA
 * Excellence in Teaching First-Year 2022-2023, Northeastern University, Boston, MA, USA
-* Academia Sinica Scholarship, Institute of Physics, Academia Sinica, Taipei, Taiwan, Sep. 2021 - Jun. 2022 and Sep. 2020 - Jun. 2021 
-* College Student Research Scholarship, Ministry of Science and Technology, Taiwan, Jan. 2020 - Jun. 2020
 
 <br>
 
