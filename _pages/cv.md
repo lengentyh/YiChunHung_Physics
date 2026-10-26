@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the PDF version [here](https://www.cake.me/s--ox76a_6PQlUoRqZU7VIQjw--/lengentyh).
+You can download the PDF version [here](./CV_YCH.pdf).
 
 [Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
 
