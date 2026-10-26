@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the PDF version [here](./CV_YCH.pdf).
+You can download the PDF version [here](https://lengentyh.github.io/YiChunHung_Physics/_pages/CV_YCH.pdf).
 
 [Google Scholar](https://scholar.google.com/citations?user=rEfFuMEAAAAJ&hl=en-US)
 
