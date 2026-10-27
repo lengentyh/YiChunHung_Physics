@@ -42,19 +42,21 @@ Research Experience
 
 <hr>
 
-* __Graduate Research Assistant • Northeastern University • Ph.D. with Prof. Arun Bansil__
-   > May 2023 - present • Boston, MA, USA
+* __Graduate Research Assistant • Ph.D. with Prof. Arun Bansil__
+   > May 2023 - present • Northeastern University, Boston, MA, USA
   
+  * Machine-learning-assisted materials design and discovery
+
   * [Lattice-geometry-driven flat-band physics](https://lengentyh.github.io/YiChunHung_Physics/research/research_1_flat_band) 
 
   * [Unconventional helical Luttinger liquids](https://lengentyh.github.io/YiChunHung_Physics/research/research_2_QSHI) 
 
   * [Topological band theory beyond symmetry-protected topological phases](https://lengentyh.github.io/YiChunHung_Physics/research/research_3_projective%20spectrum) 
 
-* <span class="custom-tooltip">__Student Researcher • Institute of Physics, Academia Sinica • Appointed by Dr. Hsin Lin__</span>
-  > Sep. 2020 – Jun. 2022  (Research Assistant: Jul. - Sep. 2021) • Taipei, Taiwan
+* <span class="custom-tooltip">__Bachelor Researcher • Appointed by Dr. Hsin Lin__</span>
+  > Sep. 2020 – Jun. 2022 • Institute of Physics, Academia Sinica, Taipei, Taiwan
   
-  * <ins>Phenomenological superconducting proximity effect modeling</ins> 
+  * Phenomenological superconducting proximity effect modeling 
 
 <br>
 
@@ -112,6 +114,7 @@ Numerical Skills
 * Computing on HPC clusters (Explorer, NERSC)
 * First-principles calculations using VASP
 * Coding with MATLAB and Python 3
+* Generative modeling for materials discovery
 
 <br>
 
@@ -120,8 +123,8 @@ Honors and Awards
 
 <hr>
 
-* Graduate Academic Excellence First-Year 2022-2023, Northeastern University, Boston, MA, USA
-* Excellence in Teaching First-Year 2022-2023, Northeastern University, Boston, MA, USA
+* Graduate Academic Excellence First-Year 2022-2023, Department of Physics, Northeastern University, Boston, MA, USA
+* Excellence in Teaching First-Year 2022-2023, Department of Physics, Northeastern University, Boston, MA, USA
 
 <br>
 
