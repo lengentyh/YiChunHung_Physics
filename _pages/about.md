@@ -57,8 +57,8 @@ News
 
 <hr>
 
-* 2026-03-15: A new paper ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://journals.aps.org/prl/abstract/10.1103/vmhd-jn5y) is published on Physical Review Letters.
-* 2026-09-10: A new paper ["Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems"](https://doi.org/10.1016/j.mtquan.2026.100076) is published on Materials Today Quantum.
+* 2026-09-14: A new paper ["Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases"](https://journals.aps.org/prl/abstract/10.1103/vmhd-jn5y) is published on Physical Review Letters.
+* 2026-09-04: A new paper ["Quantum Geometry Driven Finite-Momentum Exciton Fluctuations in Flat-Band Systems"](https://doi.org/10.1016/j.mtquan.2026.100076) is published on Materials Today Quantum.
 * 2026-06-22: A new preprint ["Helical Domain-Wall-Ring Networks Reshape Superconducting Correlations"](https://arxiv.org/abs/2606.23599) is posted on arXiv.
 * 2026-06-15: A new preprint ["Inter-Dirac-cone Coherence Beyond the Valley Framework"](https://arxiv.org/abs/2606.16155) is posted on arXiv.
 * 2026-03-23: A new preprint ["Twist-Induced Quantum Geometry Reconfiguration in Moiré Flat Bands"](https://arxiv.org/abs/2603.20849) is posted on arXiv.
